@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+Z:/csci406/algoproject1/main.cpp
+iostream
+-
+vector
+-
+cmath
+-
+algorithm
+-
+iomanip
+-
+ctime
+-
+chrono
+-
+

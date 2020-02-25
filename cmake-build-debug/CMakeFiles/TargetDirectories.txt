@@ -1,0 +1,3 @@
+Z:/csci406/algoproject1/cmake-build-debug/CMakeFiles/algoproject1.dir
+Z:/csci406/algoproject1/cmake-build-debug/CMakeFiles/edit_cache.dir
+Z:/csci406/algoproject1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
